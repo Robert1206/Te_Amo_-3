@@ -12,5 +12,5 @@ document.addEventListener("DOMContentLoaded", function () {
         carousel.style.transform = `translateX(${offset}%)`;
     }
     
-    setInterval(nextSlide, 3000);
+    setInterval(nextSlide, 8000);
 });
